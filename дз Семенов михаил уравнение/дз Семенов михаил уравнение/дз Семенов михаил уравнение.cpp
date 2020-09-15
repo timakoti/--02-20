@@ -50,7 +50,7 @@ int main()
 			cout << "x equals: " << x << endl;
 		}
 		D = (b*b) - (4 * a*c);
-		if (D > 0) {
+		if (D > 0 and a != 0) {
 			x = ((-b) + sqrt(D)) / (2 * a);
 			cout << "x1 equals: " << x << endl;
 			x = ((-b) - sqrt(D)) / (2 * a);
