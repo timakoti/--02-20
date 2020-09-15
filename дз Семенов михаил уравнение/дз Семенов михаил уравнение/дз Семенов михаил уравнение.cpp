@@ -57,7 +57,7 @@ int main()
 			cout << "x2 equals: " << x << endl;
 			return 0;
 		}
-		if (D == 0) {
+		if (D == 0 and a!=0) {
 			x = (-b) / (2 * a);
 			cout << "x equals: " << x << endl;
 		}
