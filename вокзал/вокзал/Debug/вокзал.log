@@ -1,0 +1,8 @@
+﻿  вокзал.cpp
+C:\Users\IVC1-5\source\repos\вокзал\вокзал\вокзал.cpp(9,25): warning C4101: B: неиспользованная локальная переменная
+C:\Users\IVC1-5\source\repos\вокзал\вокзал\вокзал.cpp(9,13): warning C4101: a: неиспользованная локальная переменная
+C:\Users\IVC1-5\source\repos\вокзал\вокзал\вокзал.cpp(9,16): warning C4101: b: неиспользованная локальная переменная
+C:\Users\IVC1-5\source\repos\вокзал\вокзал\вокзал.cpp(9,19): warning C4101: c: неиспользованная локальная переменная
+C:\Users\IVC1-5\source\repos\вокзал\вокзал\вокзал.cpp(9,22): warning C4101: A: неиспользованная локальная переменная
+C:\Users\IVC1-5\source\repos\вокзал\вокзал\вокзал.cpp(9,28): warning C4101: C: неиспользованная локальная переменная
+  вокзал.vcxproj -> C:\Users\IVC1-5\source\repos\вокзал\Debug\вокзал.exe
